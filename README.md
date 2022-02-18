@@ -16,9 +16,9 @@ Purpose Statement: To do a demo on Snowflake and the connection with python.
 
 README
 -------------------------------------
-For this particular notebook, I set up a guest account on snowflake, created a connection to the 
+For this particular notebook, I set up a guest account on snowflake, created a connection to the Snowflake warehouse, 
 
-Snowflake warehouse, uploaded onlince and local files, and did a very simple exploratory data analysis. with matploy lib
+uploaded online and local files, and did a very simple exploratory data analysis with matplotlib.
 
 
 FILES
