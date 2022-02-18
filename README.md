@@ -27,5 +27,6 @@ FILES
 :Hakkoda Snowflake.ipynb:
 
 This is the full workflow of connecting to snowflake, running queries in python, and uploading files into Snowflake.
+
 -------------------------------------
 
